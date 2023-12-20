@@ -1,0 +1,16 @@
+catalog{
+    background-color: black;
+    color: white;
+}
+cd{
+    /* background-color: red; */
+    display: table;
+    border: 2px solid black;
+}
+title , artist , country , company , price,  year {
+display: table-cell;
+background-color: brown;
+padding: 10px;
+border: 2px solid rgb(21, 14, 237);
+
+}
